@@ -1,0 +1,265 @@
+body, html{
+    background-color: rgb(217, 198, 174);
+}
+
+#lipstick{
+    position:absolute;
+    top:300px;
+    left: 90px;
+    width: 70px;
+    height:100px;
+    background-color: rgb(23, 23, 23);
+    background: linear-gradient(to right, rgb(23, 23, 23), rgb(1, 1, 1),  rgb(23, 23, 23), rgb(23, 23, 23), rgb(63, 63, 63), rgb(23, 23, 23), rgb(23, 23, 23));
+    box-shadow: 3px 3.8px 2px rgb(102, 102, 102, 0.8);
+    
+}
+
+#lipstickBtm{
+    position:absolute;
+    top:380px;
+    left: 90px;
+    width: 70px;
+    height:40px;
+    background-color: rgb(23, 23, 23);
+    background: linear-gradient(to right, rgb(23, 23, 23), rgb(1, 1, 1),  rgb(23, 23, 23), rgb(23, 23, 23), rgb(63, 63, 63), rgb(23, 23, 23), rgb(23, 23, 23));
+    /* box-shadow: 2px 2px 1px rgb(70, 103, 115); */
+    filter: drop-shadow(3px 5.5px 2px rgba(97, 97, 97, 5));
+    border-radius: 50%;
+}
+
+/* #blackBarrel{
+    background: linear-gradient(to right, rgb(23, 23, 23), rgb(23, 23, 23), rgb(231, 7, 7), rgb(23, 23, 23));
+} */
+
+#lipstickGoldBtm{
+    position:absolute;
+    top:280px;
+    left: 90px;
+    width: 70px;
+    height:40px;
+    background-color: rgb(175, 134, 52);
+    
+    /* box-shadow: 2px 2px 1px rgb(70, 103, 115); */
+    /* filter: drop-shadow(3px 5.5px 2px rgba(97, 97, 97, 5)); */
+    border-radius: 50%;
+}
+
+#lipstickGoldBtm2{
+    position:absolute;
+    top:275px;
+    left: 95px;
+    width: 60px;
+    height:40px;
+    background-color: rgb(207, 159, 74);
+    background: linear-gradient(to right, rgb(207, 159, 74), rgb(142, 102, 33), rgb(207, 159, 74), rgb(207, 159, 74),rgb(207, 159, 74),rgb(210, 172, 107), rgb(207, 159, 74), rgb(207, 159, 74));
+    
+    /* box-shadow: 2px 2px 1px rgb(70, 103, 115); */
+    /* filter: drop-shadow(3px 5.5px 2px rgba(97, 97, 97, 5)); */
+    border-radius: 50%;
+}
+
+#lipstickGoldBtm3{
+    position:absolute;
+    top:265px;
+    left: 95px;
+    width: 60px;
+    height:40px;
+    background-color: rgb(207, 159, 74);
+    
+    
+    /* box-shadow: 2px 2px 1px rgb(70, 103, 115); */
+    /* filter: drop-shadow(3px 5.5px 2px rgba(97, 97, 97, 5)); */
+    border-radius: 50%;
+}
+
+#lipstickGoldBtm4{
+    position:absolute;
+    top:284px;
+    left: 95px;
+    width: 60px;
+    height:12px;
+    background-color: rgb(207, 159, 74);
+    background: linear-gradient(to right, rgb(207, 159, 74), rgb(142, 102, 33), rgb(207, 159, 74), rgb(207, 159, 74),rgb(207, 159, 74),rgb(210, 172, 107), rgb(207, 159, 74), rgb(207, 159, 74));
+    
+    
+}
+
+#lipstickGoldBtmShadow{
+    position:absolute;
+    top:265px;
+    left: 95px;
+    width: 60px;
+    height:40px;
+    background-color: rgb(198, 146, 59);
+    /* box-shadow: 2px 2px 1px rgb(70, 103, 115); */
+    /* filter: drop-shadow(3px 5.5px 2px rgba(97, 97, 97, 5)); */
+    border-radius: 50%;
+    filter: drop-shadow(0.8px 0.3px 2px rgba(95, 60, 0, 0.01));
+}
+
+/* 2nd Gold part up */
+
+/* #lipstickMid-1{
+    position:absolute;
+    top:180px;
+    left: 90px;
+    width: 70px;
+    height:40px;
+    background-color: rgb(110, 70, 0);
+    /* box-shadow: 2px 2px 1px rgb(70, 103, 115); */
+    /* filter: drop-shadow(3px 5.5px 2px rgba(97, 97, 97, 5)); */
+    /*border-radius: 50%; } */
+
+#lipstickMid-2{
+    position:absolute;
+    top:175px;
+    left: 95px;
+    width: 60px;
+    height:40px;
+    background-color: rgb(199, 151, 70);
+    /* box-shadow: 2px 2px 1px rgb(70, 103, 115); */
+    filter: drop-shadow(0.1px 3px 2px rgba(52, 26, 0, 0.1));
+    border-radius: 50%;
+    background: linear-gradient(to right, rgb(199, 151, 70),rgb(199, 151, 70),rgb(199, 151, 70), rgb(199, 151, 70), rgb(199, 151, 70), rgb(199, 151, 70), rgb(210, 172, 107),rgb(235, 195, 125),rgb(210, 172, 107), rgb(199, 151, 70), rgb(199, 151, 70));
+    background: linear-gradient(to right, rgb(199, 151, 70), rgb(134, 99, 37), rgb(199, 151, 70), rgb(210, 172, 107),rgb(235, 195, 125),rgb(210, 172, 107), rgb(199, 151, 70), rgb(199, 151, 70));
+    
+}
+
+#lipstickMid-3{
+    position:absolute;
+    top:106px;
+    left: 95px;
+    width: 60px;
+    height:35px;
+    background: linear-gradient(to right, rgb(199, 151, 70),rgb(199, 151, 70),rgb(199, 151, 70), rgb(199, 151, 70), rgb(199, 151, 70), rgb(199, 151, 70), rgb(210, 172, 107),rgb(235, 195, 125),rgb(210, 172, 107), rgb(199, 151, 70), rgb(199, 151, 70));
+    
+    background: linear-gradient(to right, rgb(199, 151, 70), rgb(134, 99, 37), rgb(199, 151, 70), rgb(210, 172, 107),rgb(235, 195, 125),rgb(210, 172, 107), rgb(199, 151, 70), rgb(199, 151, 70));
+    
+    border-radius: 50%;
+}
+
+/* RECTANGLE */
+#lipstickMid-4{ 
+    position:absolute;
+    top:125px;
+    left: 95.054347px;
+    width: 59.58px;
+    height:69px;
+    background-color: rgb(199, 151, 70);
+    background: linear-gradient(to right, rgb(199, 151, 70),rgb(199, 151, 70),rgb(199, 151, 70), rgb(199, 151, 70), rgb(199, 151, 70), rgb(199, 151, 70), rgb(210, 172, 107),rgb(235, 195, 125),rgb(210, 172, 107), rgb(199, 151, 70), rgb(199, 151, 70));
+    
+    background: linear-gradient(to right, rgb(199, 151, 70), rgb(134, 99, 37), rgb(199, 151, 70), rgb(210, 172, 107),rgb(235, 195, 125),rgb(210, 172, 107), rgb(199, 151, 70), rgb(199, 151, 70));
+    
+}
+
+#MiddleGoldPart{
+    position:absolute;
+    top:108px;
+    left: 13px;
+    transform: scale(0.9); 
+    transform: scaleY(80px);
+
+    
+   
+}
+
+#rim{
+    position:absolute;
+    top:106px;
+    left: 95px;
+    width: 60px;
+    height:35px;
+    background-color: rgb(209, 165, 82);
+    border-radius: 50%; 
+    filter: drop-shadow(0.8px 2px 2px rgba(52, 26, 0, 0.2));
+}
+
+#blackhole{
+    position:absolute;
+    top:108.8px;
+    left: 97.3px;
+    width: 55px;
+    height:29.5px;
+    background-color: rgb(23, 23, 23);
+    border-radius: 50%; 
+    filter: drop-shadow(0,0,5px rgba(52, 26, 0, 0.1));
+}
+
+
+
+/* -----actual lipstick */
+
+#redLip-1{
+    position:absolute;
+    top:175px;
+    left: 95px;
+    width: 45px;
+    height:24.14px;
+    background-color: rgb(171, 35, 26);
+    background: linear-gradient(to right, rgb(171, 35, 26),rgb(137, 28, 20),rgb(171, 35, 26),rgb(174, 59, 50),rgb(171, 35, 26));
+    /* box-shadow: 2px 2px 1px rgb(70, 103, 115); */
+    filter: drop-shadow(0.1px 3px 2px rgba(52, 26, 0, 0.1));
+    border-radius: 50%;
+}
+
+
+/* RECTANGLE */
+#redLip-3{ 
+    position:absolute;
+    top:118.5px;
+    left: 95.054347px;
+    width: 45px;
+    height:69px;
+    background-color: rgb(171, 35, 26);
+    background: linear-gradient(to right, rgb(171, 35, 26),rgb(137, 28, 20),rgb(171, 35, 26),rgb(174, 59, 50),rgb(171, 35, 26));
+    
+    
+}
+
+#redLip-2{
+    position:absolute;
+    top:106px;
+    left: 95px;
+    width: 45px;
+    height:24.14px;
+    background-color: rgb(171, 35, 26);
+    /* box-shadow: 2px 2px 1px rgb(70, 103, 115); */
+    background: linear-gradient(to right, rgb(171, 35, 26),rgb(137, 28, 20),rgb(171, 35, 26),rgb(174, 59, 50),rgb(171, 35, 26));
+    
+    border-radius: 50%;
+}
+
+
+
+
+
+#redLipTip {
+    position: absolute;
+    top:90px;
+    left: 95px;
+    width: 45px;
+    height: 45px;
+    background-color: rgb(190, 40, 32);
+    background: linear-gradient(335deg, rgb(152, 32, 23),rgb(136, 27, 19),rgb(152, 32, 23),rgb(171, 35, 26),rgb(174, 59, 50),rgb(171, 35, 26));
+    
+
+    border-radius: 50% 50% 50% 0;
+
+    transform: rotate(130deg);
+   
+    filter: drop-shadow(1px 0px 1px rgba(131, 21, 15, 0.5));
+}
+
+#redLipstick{
+    position:absolute;
+    top:43px;
+    left: 13.5px;
+    transform: scale(0.95); 
+    transform: scaleY(80px);
+    
+}
+
+
+#blackHighlight{
+
+}
