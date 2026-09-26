@@ -245,14 +245,14 @@ h2{
 
 
 
-/* -----actual lipstick */
+/* -----actual lipstick SOPPPPP----*/ 
 
 #redLip-1{
     position:absolute;
-    top:175px;
+    top:176.35px;
     left: 95px;
     width: 45px;
-    height:24.14px;
+    height:22.14px;
     background-color: rgb(171, 35, 26);
     background: linear-gradient(to right, rgb(171, 35, 26),rgb(137, 28, 20),rgb(171, 35, 26),rgb(174, 59, 50),rgb(171, 35, 26));
     /* box-shadow: 2px 2px 1px rgb(70, 103, 115); */
@@ -267,7 +267,7 @@ h2{
     top:118.5px;
     left: 95.054347px;
     width: 45px;
-    height:69px;
+    height:67px;
     background-color: rgb(171, 35, 26);
     background: linear-gradient(to right, rgb(171, 35, 26),rgb(137, 28, 20),rgb(171, 35, 26),rgb(174, 59, 50),rgb(171, 35, 26));
     
@@ -279,7 +279,7 @@ h2{
     top:106px;
     left: 95px;
     width: 45px;
-    height:24.14px;
+    height:22.14px;
     background-color: rgb(171, 35, 26);
     /* box-shadow: 2px 2px 1px rgb(70, 103, 115); */
     background: linear-gradient(to right, rgb(171, 35, 26),rgb(137, 28, 20),rgb(171, 35, 26),rgb(174, 59, 50),rgb(171, 35, 26));
@@ -293,7 +293,7 @@ h2{
 
 #redLipTip {
     position: absolute;
-    top:90px;
+    top:96px;
     left: 95px;
     width: 45px;
     height: 45px;
